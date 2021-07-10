@@ -1,5 +1,5 @@
 import React from "react";
-import CategoryIcon from "@material-ui/icons/Category";
+import UnfoldMoreIcon from "@material-ui/icons/UnfoldMore";
 import "../../Assets/css/left.css";
 import KeyboardArrowUpIcon from "@material-ui/icons/KeyboardArrowUp";
 import KeyboardArrowDownIcon from "@material-ui/icons/KeyboardArrowDown";

@@ -32,5 +32,30 @@
   width: 100%;
 }
 .project {
-  margin: 0% 10%;
+  margin: 0% 8%;
+}
+.project-heading {
+  color: #0e1844;
+}
+.description {
+  margin: 5% 0%;
+  color: #9497a9;
+}
+.checkbox {
+  background-color: #f6f8fa;
+  padding: 2%;
+  margin: 5% 0%;
+  border-radius: 10px;
+}
+.checkbox-main {
+  margin: 10% 0%;
+}
+.recent-heading {
+  color: #0e1844 !important;
+}
+.icon-middle {
+  padding: 10%;
+  border-radius: 5px;
+  margin: 0% 5%;
+  background-color: #f6f8fa;
 }
