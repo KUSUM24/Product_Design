@@ -1,0 +1,43 @@
+.icon-left {
+  color: #0c2480;
+  font-size: 250% !important;
+  position: relative;
+  top: 5%;
+  left: 20%;
+}
+.blue-section {
+  background-color: #0c2480;
+  width: 200px;
+  height: 85%;
+  border-radius: 0px 60px 0px 60px;
+}
+.list-left {
+  position: relative;
+  top: 8%;
+  color: #5261a9;
+}
+.list-left li {
+  list-style-type: none;
+  padding: 6%;
+  letter-spacing: 0.05em;
+  font-size: 110%;
+}
+
+.image-left-main {
+  position: relative;
+  top: 35% !important;
+  height: 15%;
+}
+.image-left {
+  background-color: green;
+  width: 80%;
+  border-radius: 20px;
+}
+.arrow-icons {
+  color: #4859a4;
+  cursor: pointer;
+}
+.personal {
+  position: relative;
+  top: 40%;
+}

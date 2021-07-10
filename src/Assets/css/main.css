@@ -1,0 +1,10 @@
+.main {
+  background-color: #f4a999;
+  height: 1000px;
+}
+.secondary {
+  background-color: white;
+  border-radius: 60px;
+  height: 80%;
+  width: 90%;
+}

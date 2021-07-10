@@ -1,0 +1,36 @@
+.middle {
+  width: 60%;
+  border-right: 2px solid black;
+}
+.inner-middle {
+  margin: 0% 10% 0% 10%;
+}
+.search-main {
+  margin: 5% 0%;
+}
+.search-icon {
+  background-color: #f6f8fa !important;
+  border: none !important;
+  border-radius: 10px 0px 0px 10px !important;
+}
+.search-field {
+  border: none !important;
+  background-color: #f6f8fa !important;
+  border-radius: 0px 10px 10px 0px !important;
+}
+.home {
+  margin: 5% 0% !important;
+  font-weight: bolder;
+}
+.image-middle-main {
+  position: relative;
+  height: 150px !important;
+  width: 200px;
+}
+.image-middle {
+  background-color: pink;
+  width: 100%;
+}
+.project {
+  margin: 0% 10%;
+}
