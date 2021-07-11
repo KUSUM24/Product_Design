@@ -1,6 +1,6 @@
 .middle {
   width: 60%;
-  border-right: 2px solid black;
+  border-right: 1px solid gray;
 }
 .inner-middle {
   margin: 0% 10% 0% 10%;
@@ -24,11 +24,12 @@
 }
 .image-middle-main {
   position: relative;
-  height: 150px !important;
-  width: 200px;
+  height: 200px !important;
+  width: 180px;
 }
 .image-middle {
-  background-color: pink;
+  position: relative;
+  top: 5% !important;
   width: 100%;
 }
 .project {
@@ -53,9 +54,38 @@
 .recent-heading {
   color: #0e1844 !important;
 }
+.recent {
+  padding: 1%;
+  width: 95%;
+}
 .icon-middle {
   padding: 10%;
   border-radius: 5px;
   margin: 0% 5%;
   background-color: #f6f8fa;
+}
+.section-main {
+  border-radius: 15px;
+  padding: 4%;
+}
+.music {
+  background-color: #e6ebf7;
+}
+.icon-folder {
+  color: #c1cce6;
+  border-radius: 5px;
+}
+.icon-type {
+  background-color: #f8b09f;
+  color: #0f268e;
+  border-radius: 5px;
+}
+.icon-bottom {
+  padding: 10%;
+}
+.file-type {
+  color: #8b92a9;
+}
+.title-middle {
+  margin: 0% 5%;
 }
