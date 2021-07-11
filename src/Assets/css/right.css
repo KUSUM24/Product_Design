@@ -1,0 +1,75 @@
+.right {
+  width: 25%;
+  padding: 2.5%;
+}
+.initial {
+  background-color: #e6ebf7;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  margin: 0% 2%;
+}
+.billie {
+  margin: 15% 0% 10% 0%;
+}
+.singer {
+  color: #0c2480;
+}
+.icon-right-same {
+  padding: 2%;
+  border-radius: 10px;
+  background-color: #f6f8fc;
+  color: #0c2480;
+}
+.icon-right-diff {
+  padding: 2%;
+  border-radius: 10px;
+  background-color: #0c2480;
+  color: white;
+}
+.hr-right {
+  color: #b3b4b6;
+  height: 2px;
+}
+.circle-right {
+  border-radius: 50%;
+  background-color: #b3b4b6;
+  padding: 4%;
+  width: 60px;
+  height: 60px;
+  border: 5px solid white;
+}
+.c1 {
+  z-index: 3;
+  background-color: #c7997c;
+}
+.c2 {
+  position: relative;
+  left: -6%;
+  z-index: 2;
+  background-color: #87ccda;
+}
+.c3 {
+  position: relative;
+  left: -12%;
+  z-index: 1;
+  background-color: #eca1ba;
+}
+.c4 {
+  position: relative;
+  left: -18%;
+  z-index: 0;
+  color: #0c2480;
+  background-color: #f6f8fc;
+}
+.circle-right-bottom {
+  border-radius: 50%;
+  background-color: #b3b4b6;
+  padding: 2%;
+  width: 40px;
+  height: 40px;
+}
+.comment {
+  color: gray;
+  margin: 0% 4%;
+}

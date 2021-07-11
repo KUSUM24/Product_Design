@@ -4,9 +4,6 @@ import "../../Assets/css/middle.css";
 import CategoryIcon from "@material-ui/icons/Category";
 import ReorderIcon from "@material-ui/icons/Reorder";
 import AddIcon from "@material-ui/icons/Add";
-import LinkIcon from "@material-ui/icons/Link";
-import MoreVertIcon from "@material-ui/icons/MoreVert";
-import PlayArrowIcon from "@material-ui/icons/PlayArrow";
 import FolderIcon from "@material-ui/icons/Folder";
 import MusicNoteIcon from "@material-ui/icons/MusicNote";
 import ImageIcon from "@material-ui/icons/Image";
@@ -75,7 +72,7 @@ export const Middle = () => {
               <div className="icon-middle">
                 <ReorderIcon />{" "}
               </div>
-              <div className="icon-middle">
+              <div className="icon-middle add-icon">
                 <AddIcon />{" "}
               </div>
             </div>

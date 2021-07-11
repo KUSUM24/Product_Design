@@ -1,5 +1,5 @@
 .middle {
-  width: 60%;
+  width: 55%;
   border-right: 1px solid gray;
 }
 .inner-middle {
@@ -60,9 +60,10 @@
 }
 .icon-middle {
   padding: 10%;
-  border-radius: 5px;
+  border-radius: 10px;
   margin: 0% 5%;
   background-color: #f6f8fa;
+  color: #6a78b5;
 }
 .section-main {
   border-radius: 15px;
@@ -88,4 +89,8 @@
 }
 .title-middle {
   margin: 0% 5%;
+}
+.add-icon {
+  background-color: #0c2480;
+  color: white;
 }
